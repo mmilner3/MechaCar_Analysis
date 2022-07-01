@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG 
 
-![Lin_Regression]()
+![Lin_Regression](https://github.com/mmilner3/MechaCar_Analysis/blob/main/Lin_Regress.PNG)
 
 
 -  *Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?*
@@ -21,19 +21,19 @@
 
 - *The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?*
 
-![summary_stats]()
+![summary_stats](https://github.com/mmilner3/MechaCar_Analysis/blob/main/summary_stats.PNG)
 
-![3-lots]()
+![3-lots](https://github.com/mmilner3/MechaCar_Analysis/blob/main/3%20lots.PNG)
 baased on the data provided this assumption holds for lot 1 and lot 2 but NOT lot 3. This requirement is staisfied when looking at the total for all lots. 
 
 
 ## T-Tests on Suspension Coils
 
-![1_samp]()
+![1_samp](https://github.com/mmilner3/MechaCar_Analysis/blob/main/t-test.PNG)
 The PSI across all lots is not statistically significant from the the population mean
 
 
-![3_samp]()
+![3_samp](https://github.com/mmilner3/MechaCar_Analysis/blob/main/3-t-test.PNG)
 The PSI across lots 1 and 2 are statistically significant from the the population mean PSI across lot 3 is not statistically significant from the the population mean
 
 
